@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JavaScript Accordion
 
 A basic JavaScript and HTML accordion.
@@ -12,3 +13,6 @@ A basic JavaScript and HTML accordion.
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
 </a>
+=======
+# Accordian-JS
+>>>>>>> 25b742bbd62e19922df2ac51940e79b33aade5df
